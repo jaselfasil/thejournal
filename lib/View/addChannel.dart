@@ -69,7 +69,7 @@ class AddChannelState extends State<AddChannel> {
               height: 40,
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.green,
+                  backgroundColor: Colors.green,
                 ),
                 onPressed: () {
                   //    onShare();
